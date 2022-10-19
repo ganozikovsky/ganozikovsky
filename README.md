@@ -1,4 +1,4 @@
-## Hey 👋, I'm Gonzalo!  
+## Hey 👋, I'm Gonzalo from Argentina!  
   
 
 <a href="https://github.com/ganozikovsky" target="_blank">
