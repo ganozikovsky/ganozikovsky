@@ -1,3 +1,4 @@
+<div align="center">
 ## Hey 👋, I'm Gonzalo from Argentina!  
   
 
@@ -10,6 +11,7 @@
 <a href="https://linkedin.com/in/ganozikovsky" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+  </div>
 
   
 
@@ -85,10 +87,6 @@ My goals are to apply my knowledge, skills and experience to provide solutions t
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganozikovsky&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
-
-<br/>  
-
-<img src="https://raw.githubusercontent.com/ganozikovsky/ganozikovsky/blob/output/snake.svg" alt="Snake animation" />
 
 <br/>  
 
