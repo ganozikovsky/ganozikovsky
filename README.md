@@ -88,7 +88,7 @@ My goals are to apply my knowledge, skills and experience to provide solutions t
 
 <br/>  
 
-  
+<img src="https://raw.githubusercontent.com/ganozikovsky/ganozikovsky/blob/output/snake.svg" alt="Snake animation" />
 
 <br/>  
 
