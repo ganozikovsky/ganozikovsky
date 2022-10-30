@@ -104,7 +104,7 @@ My goals are to apply my knowledge, skills and experience to provide solutions t
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=ganozikovsky&&style=flat-square)  
   
 
 <br/>  
