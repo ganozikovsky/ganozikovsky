@@ -30,10 +30,7 @@ My goals are to apply my knowledge, skills and experience to provide solutions t
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [my-portfolio](https://github.com/ganozikovsky/portfolio-ganozikovsky)  
   
-
 - 🌱 I’m currently learning Next.js and Nest.js  
   
 
