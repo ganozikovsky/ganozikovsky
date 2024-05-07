@@ -18,9 +18,7 @@
 
 
 ### Glad to see you here!  
-I am an innovative, responsible and passionate person, committed to the objectives, with great ability to work in teams in dynamic environments. 
-
-I am a graduate of the Coding Bootcamp of +800 hours of Plataforma 5 and advanced student of the Computer Systems Analyst career at the Instituto Superior Santo Domingo.
+I am an innovative, responsible and passionate person, committed to the objectives, with great ability to work in teams in dynamic environments.
 
 My goals are to apply my knowledge, skills and experience to provide solutions that will allow me the continuous professional and personal growth and development.  
   
